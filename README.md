@@ -99,20 +99,6 @@ foco_atual = {
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeCostaBarbosa&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCostaBarbosa&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-</div>
-
----
-
-<div align="center">
-
 *GTECH STUDIO — construindo soluções que funcionam de verdade.*
 
 </div>
